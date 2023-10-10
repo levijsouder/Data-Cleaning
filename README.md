@@ -1,2 +1,2 @@
 # DataCleaning
-This project goes over techniques in SQL that can be used to clean datebase tables. Follow this link to view the original data set regarding the real estate industry.
+Th SQL queries found in 'housingdata_datacleaningqueries.sql' were run on a table containing data on housing sales. Follow this link to find and download the the original data set. 
